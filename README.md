@@ -1,5 +1,5 @@
 # Udacity Automated Pipelines Project
-This project is a part of the Udacity Nanodegree, [Becoming a Data Engineer](https://www.udacity.com/course/data-engineer-nanodegree--nd027). The goal of the project is to implement the DAG presented below using python code combined with the open-source workflow management platform for data engineering pipelines, Airflow and AWS.
+This project is a part of the Udacity Nanodegree, [Becoming a Data Engineer](https://www.udacity.com/course/data-engineer-nanodegree--nd027). The goal of the project is to introduce more automation and monitoring to a ficitive music streaming company's data warehouse ETL pipelines using Apache AirFlow. The DAG presented below have been implemented using python code combined with the open-source workflow management platform for data engineering pipelines, Airflow and AWS.
 
 ![Picture of dag](https://video.udacity-data.com/topher/2019/January/5c48a861_example-dag/example-dag.png)
 
